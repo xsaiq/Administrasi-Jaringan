@@ -1,4 +1,4 @@
-:: # Administrasi Jaringan ::
+# <center> Administrasi Jaringan </center>
 
     Nama           : Saiq Syahru Qadri
     NRP            : 3122600029
