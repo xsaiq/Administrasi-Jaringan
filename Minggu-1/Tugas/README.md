@@ -1,11 +1,5 @@
 # Instalasi Debian di VM VirtualBox 🛰️
 
-    Nama		: Yasir Maarif
-    NRP		: 3122600013
-    Kelas		: 2 D4 Teknik Informatika
-    Mata Kuliah	: Konsep Jaringan
-    Dosen Pengampu	: Dr. Ferry Astika Saputra ST, M.Sc
-
 ## Setup OS Debian
 
 1. Siapkan Oracle VM VirtualBox, kemudian pilih 'New'
