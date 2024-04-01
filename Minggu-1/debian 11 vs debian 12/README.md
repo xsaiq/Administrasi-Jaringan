@@ -1,4 +1,4 @@
-# Administrasi Jaringan
+# Debian 11 vs Debian 12
     Nama           : Saiq Syahru Qadri
     NRP            : 3122600029
     Kelas          : 2 - D4 Teknik Informatika A
